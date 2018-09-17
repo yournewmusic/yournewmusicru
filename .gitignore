@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+# dependencies
+node_modules
+
+# logs
+npm-debug.log
+
+# Nuxt build
+.nuxt
+
+# Nuxt generate
+dist
+=======
 # Logs
 logs
 *.log
@@ -59,3 +72,4 @@ typings/
 
 # next.js build output
 .next
+>>>>>>> 95a3b4b6c015266bee113231d2a99f11caff6768
